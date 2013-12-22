@@ -1,0 +1,4 @@
+hooks
+=====
+
+Testing GitHub hooks
